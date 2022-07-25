@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T12:13:33.369Z" agent="5.0 (Macintosh)" etag="LQ6j334Sg_sKYz_XSFNf" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T12:16:06.300Z" agent="5.0 (Macintosh)" etag="DcRwndXREf2woBG2RBuH" version="20.0.3" type="github">
   <diagram id="GDaDlvehyk0IUpQhXFB_" name="Page-1">
     <mxGraphModel dx="1226" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,16 @@
           <mxGeometry x="360" y="480" width="110" height="33" as="geometry" />
         </mxCell>
         <mxCell id="qs7_fkmbpAEoLOePlhtD-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=1;html=1;strokeColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#CCCCCC;shape=mxgraph.azure.server;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="480" width="110" height="33" as="geometry" />
+          <mxGeometry x="500" y="480" width="110" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-15" value="pbs_mom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-16" value="kube-proxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-17" value="kubelet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
