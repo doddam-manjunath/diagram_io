@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T12:10:18.164Z" agent="5.0 (Macintosh)" etag="qA1AiRrdgdy3IxvH0KxZ" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T12:13:33.369Z" agent="5.0 (Macintosh)" etag="LQ6j334Sg_sKYz_XSFNf" version="20.0.3" type="github">
   <diagram id="GDaDlvehyk0IUpQhXFB_" name="Page-1">
     <mxGraphModel dx="1226" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="qs7_fkmbpAEoLOePlhtD-10" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="110" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="qs7_fkmbpAEoLOePlhtD-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=1;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#CCCCCC;shape=mxgraph.azure.server" vertex="1" parent="1">
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=1;html=1;strokeColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#CCCCCC;shape=mxgraph.azure.server;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="480" width="110" height="33" as="geometry" />
         </mxCell>
       </root>
