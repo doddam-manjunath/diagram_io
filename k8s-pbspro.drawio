@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T03:33:45.242Z" agent="5.0 (Macintosh)" etag="_-fk99QlJIqjSDjcaH80" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T03:37:29.082Z" agent="5.0 (Macintosh)" etag="1WCRp8PCemblGbuJL4Qs" version="20.0.3" type="github">
   <diagram id="GDaDlvehyk0IUpQhXFB_" name="Page-1">
     <mxGraphModel dx="1226" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,6 +97,60 @@
         </mxCell>
         <mxCell id="qs7_fkmbpAEoLOePlhtD-49" value="kubelet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="662" y="379.5" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-50" value="PBS Pro Server" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-51" value="PBS Pro API server" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="710" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-52" value="PBS Pro Scheduler" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-62" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=1;html=1;strokeColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#CCCCCC;shape=mxgraph.azure.server;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="879" width="104" height="31.2" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-63" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=1;html=1;strokeColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#CCCCCC;shape=mxgraph.azure.server;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="436" y="879" width="104" height="31.2" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-64" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=1;html=1;strokeColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#CCCCCC;shape=mxgraph.azure.server;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="878" width="104" height="31.2" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-65" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="319" y="829" width="102" height="30.6" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-66" value="pbs_mom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323.5" y="805" width="94.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-72" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="436" y="829" width="102" height="30.6" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-73" value="pbs_mom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="805" width="94.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-74" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="550" y="829" width="102" height="30.6" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-75" value="pbs_mom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="554.5" y="805" width="94.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-76" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="321.5" y="764" width="102" height="30.6" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-77" value="pbs_mom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="740" width="94.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-78" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="438.5" y="764" width="102" height="30.6" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-79" value="pbs_mom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="740" width="94.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-80" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="764" width="102" height="30.6" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-81" value="pbs_mom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="557" y="740" width="94.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
