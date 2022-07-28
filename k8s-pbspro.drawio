@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T03:38:37.951Z" agent="5.0 (Macintosh)" etag="ARHN2No9Hi71UcHfZKhi" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T03:40:52.860Z" agent="5.0 (Macintosh)" etag="ErCBIM65arXUfB9LG0Us" version="20.0.3" type="github">
   <diagram id="GDaDlvehyk0IUpQhXFB_" name="Page-1">
     <mxGraphModel dx="1226" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qs7_fkmbpAEoLOePlhtD-2" value="kube-scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="556.2" width="100" height="47.8" as="geometry" />
+          <mxGeometry x="220" y="556.2" width="100" height="33.8" as="geometry" />
         </mxCell>
         <mxCell id="qs7_fkmbpAEoLOePlhtD-3" value="kube-controller manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="385" width="120" height="50" as="geometry" />
@@ -101,6 +101,9 @@
         <mxCell id="qs7_fkmbpAEoLOePlhtD-50" value="PBS Pro Server" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="730" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.37;entryY=0.976;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="qs7_fkmbpAEoLOePlhtD-51" target="qs7_fkmbpAEoLOePlhtD-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qs7_fkmbpAEoLOePlhtD-51" value="PBS Pro API server" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="710" width="120" height="20" as="geometry" />
         </mxCell>
@@ -151,6 +154,9 @@
         </mxCell>
         <mxCell id="qs7_fkmbpAEoLOePlhtD-83" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=1;html=1;strokeColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#CCCCCC;shape=mxgraph.azure.server;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="551" y="878" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qs7_fkmbpAEoLOePlhtD-85" value="pbs-k8s-adapter " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="590" width="100" height="33.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
