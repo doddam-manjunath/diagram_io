@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T03:45:57.349Z" agent="5.0 (Macintosh)" etag="aQT3yWuWsUUO_XYl6Lcg" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T03:49:53.438Z" agent="5.0 (Macintosh)" etag="YjzlxE7A81R_6IVnDayY" version="20.0.3" type="github">
   <diagram id="GDaDlvehyk0IUpQhXFB_" name="Page-1">
     <mxGraphModel dx="1226" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -181,6 +181,21 @@
         </mxCell>
         <mxCell id="9Rog6R5hcCI-3LM7Edof-2" value="Loaned nodes to K8s (job_exclusive)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="294.88" y="853" width="373.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Rog6R5hcCI-3LM7Edof-7" value="Unjoined nodes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="414" y="523" width="357.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9Rog6R5hcCI-3LM7Edof-8" value="Grow&amp;nbsp; &amp;amp; Shrink" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=6;strokeWidth=1;strokeColor=default;fillColor=#4D9900;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="810" y="379.5" as="sourcePoint" />
+            <mxPoint x="810" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Rog6R5hcCI-3LM7Edof-10" value="Grow&amp;nbsp; &amp;amp; Shrink" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=6;strokeWidth=1;strokeColor=default;fillColor=#4D9900;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="700" y="700.5" as="sourcePoint" />
+            <mxPoint x="700" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
