@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T07:36:36.660Z" agent="5.0 (Macintosh)" etag="UcJJmsyTexKqT8pqBMww" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T07:38:05.861Z" agent="5.0 (Macintosh)" etag="MJWz5HglMQ5VlGCGgTaD" version="20.2.6" type="github">
   <diagram id="eeLNqMZ8d0LXY4Ni3JaH" name="Page-1">
     <mxGraphModel dx="1438" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,8 +76,8 @@
         <mxCell id="wtdIoPDRo2rwq4HPD1F2-21" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Backup Server&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.nas_backup;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="670" y="350" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wtdIoPDRo2rwq4HPD1F2-22" value="NAS Applicance&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;/data&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;/home&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;/apps&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.nas_filer;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="730" y="297.5" width="100" height="35" as="geometry" />
+        <mxCell id="wtdIoPDRo2rwq4HPD1F2-22" value="NAS Applicance&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;/data - 60 TB&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;/home - 48 TB&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;/apps - 500 GB&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.nas_filer;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="750" y="297.5" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="wtdIoPDRo2rwq4HPD1F2-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=10;fontColor=#1281FF;endArrow=none;endFill=0;strokeColor=#4D9900;" edge="1" parent="1" source="wtdIoPDRo2rwq4HPD1F2-29">
           <mxGeometry relative="1" as="geometry">
