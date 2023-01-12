@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T07:33:57.603Z" agent="5.0 (Macintosh)" etag="13D4h_gKxByyNucfljNO" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T07:36:36.660Z" agent="5.0 (Macintosh)" etag="UcJJmsyTexKqT8pqBMww" version="20.2.6" type="github">
   <diagram id="eeLNqMZ8d0LXY4Ni3JaH" name="Page-1">
     <mxGraphModel dx="1438" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
             <mxPoint x="200" y="267.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtdIoPDRo2rwq4HPD1F2-3" value="&lt;div&gt;1G switch&lt;/div&gt;&lt;div&gt;Admin network&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl581a_aruba_8320_48p_1g_10gbase_t_and_6p_40g_qsfpplus_5_fans_2_ps_switch_bundle;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="wtdIoPDRo2rwq4HPD1F2-3" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;1G switch&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Admin network&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl581a_aruba_8320_48p_1g_10gbase_t_and_6p_40g_qsfpplus_5_fans_2_ps_switch_bundle;fontSize=12;fontColor=#4D9900;" vertex="1" parent="1">
           <mxGeometry x="20" y="255" width="130" height="25" as="geometry" />
         </mxCell>
         <mxCell id="wtdIoPDRo2rwq4HPD1F2-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="1" source="wtdIoPDRo2rwq4HPD1F2-11" target="wtdIoPDRo2rwq4HPD1F2-54">
@@ -65,16 +65,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtdIoPDRo2rwq4HPD1F2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=none;endFill=0;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#1281FF;strokeColor=#FF1F5A;" edge="1" parent="1" source="wtdIoPDRo2rwq4HPD1F2-13" target="wtdIoPDRo2rwq4HPD1F2-19">
+        <mxCell id="wtdIoPDRo2rwq4HPD1F2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=none;endFill=0;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#1281FF;strokeColor=#FF1F5A;" edge="1" parent="1" source="wtdIoPDRo2rwq4HPD1F2-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="67.5" as="targetPoint" />
+            <mxPoint x="527.5" y="62.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtdIoPDRo2rwq4HPD1F2-13" value="Campus Network" style="html=1;verticalLabelPosition=top;verticalAlign=bottom;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl581a_aruba_8320_48p_1g_10gbase_t_and_6p_40g_qsfpplus_5_fans_2_ps_switch_bundle;fontSize=10;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="308" y="60" width="142" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="wtdIoPDRo2rwq4HPD1F2-19" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="560" y="42.5" width="70" height="50" as="geometry" />
+        <mxCell id="wtdIoPDRo2rwq4HPD1F2-13" value="Campus Network" style="html=1;verticalLabelPosition=top;verticalAlign=bottom;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl581a_aruba_8320_48p_1g_10gbase_t_and_6p_40g_qsfpplus_5_fans_2_ps_switch_bundle;fontSize=12;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="308" y="50" width="142" height="25" as="geometry" />
         </mxCell>
         <mxCell id="wtdIoPDRo2rwq4HPD1F2-21" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Backup Server&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.nas_backup;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="670" y="350" width="60" height="50" as="geometry" />
@@ -164,6 +161,9 @@
               <mxPoint x="660" y="326" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wtdIoPDRo2rwq4HPD1F2-69" value="VS Code / Jypyter Nodebook" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="526" y="37.5" width="66" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
