@@ -7,7 +7,7 @@
         <mxCell id="XO2l59_HI8UwT8diU1Ak-54" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="491.5" y="390" width="316.25" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="XO2l59_HI8UwT8diU1Ak-53" value="Mother Superior&lt;br&gt;node-01" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="XO2l59_HI8UwT8diU1Ak-54">
+        <mxCell id="XO2l59_HI8UwT8diU1Ak-53" value="Mother Superior&lt;br&gt;node-01" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="XO2l59_HI8UwT8diU1Ak-54">
           <mxGeometry x="-13.75" y="-30" width="330" height="210" as="geometry" />
         </mxCell>
         <mxCell id="XO2l59_HI8UwT8diU1Ak-17" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; enroot container &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#DAE8FC;strokeColor=#0e8088;strokeWidth=0.6;" vertex="1" parent="XO2l59_HI8UwT8diU1Ak-54">
@@ -34,7 +34,7 @@
         <mxCell id="XO2l59_HI8UwT8diU1Ak-49" value="python&lt;br&gt;torch.distributed" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="XO2l59_HI8UwT8diU1Ak-54">
           <mxGeometry x="179" y="108" width="107.5" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="XO2l59_HI8UwT8diU1Ak-4" value="Mother Superior&lt;br&gt;node-01" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="XO2l59_HI8UwT8diU1Ak-4" value="Mother Superior&lt;br&gt;node-01" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="91" y="340" width="330" height="250" as="geometry" />
         </mxCell>
         <mxCell id="XO2l59_HI8UwT8diU1Ak-6" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; enroot container" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
