@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.12">
   <diagram name="Page-1" id="_VsbYvV-JF-7i54SJjoL">
-    <mxGraphModel dx="1346" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2243" dy="1515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
           <mxGeometry x="572.5" y="230" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XO2l59_HI8UwT8diU1Ak-17" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; enroot container &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="360" width="280" height="130" as="geometry" />
+          <mxGeometry x="497.5" y="360" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="XO2l59_HI8UwT8diU1Ak-21" value="SSH" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="194.5" y="387" width="100" height="30" as="geometry" />
@@ -60,19 +60,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XO2l59_HI8UwT8diU1Ak-23" value="orted" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="531.25" y="375" width="100" height="30" as="geometry" />
+          <mxGeometry x="531.25" y="381" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XO2l59_HI8UwT8diU1Ak-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XO2l59_HI8UwT8diU1Ak-25" target="XO2l59_HI8UwT8diU1Ak-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XO2l59_HI8UwT8diU1Ak-25" value="torchrun" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="527.5" y="435" width="107.5" height="30" as="geometry" />
+          <mxGeometry x="527.5" y="441" width="107.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XO2l59_HI8UwT8diU1Ak-30" value="python" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="194.5" y="444.5" width="82.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="XO2l59_HI8UwT8diU1Ak-32" value="python" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="657.5" y="435" width="107.5" height="30" as="geometry" />
+          <mxGeometry x="657.5" y="441" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XO2l59_HI8UwT8diU1Ak-35" value="&lt;div&gt;MASTER: PORT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LISTEN&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
