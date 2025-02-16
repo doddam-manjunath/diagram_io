@@ -13,7 +13,7 @@
         <mxCell id="vvEPGqPCj7L-ZOLlqvaD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="vvEPGqPCj7L-ZOLlqvaD-3" target="vvEPGqPCj7L-ZOLlqvaD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vvEPGqPCj7L-ZOLlqvaD-3" value="ws-login" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="vvEPGqPCj7L-ZOLlqvaD-3" value="sea1-gateway" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="230" y="185" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vvEPGqPCj7L-ZOLlqvaD-4" value="ssh -i &amp;lt;path-to-key.pem&amp;gt; azureuser@20.11.64.227" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#7EA6E0;" parent="1" vertex="1">
@@ -25,13 +25,13 @@
         <mxCell id="vvEPGqPCj7L-ZOLlqvaD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="vvEPGqPCj7L-ZOLlqvaD-6" target="vvEPGqPCj7L-ZOLlqvaD-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vvEPGqPCj7L-ZOLlqvaD-6" value="ws-pbsserver-A" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="vvEPGqPCj7L-ZOLlqvaD-6" value="&lt;span data-teams=&quot;true&quot;&gt;roslyn.cluster.altair &lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="430" y="185" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vvEPGqPCj7L-ZOLlqvaD-8" value="&lt;div&gt;ws-pbscompute-A1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" parent="1" vertex="1">
+        <mxCell id="vvEPGqPCj7L-ZOLlqvaD-8" value="lynbrook" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="130" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vvEPGqPCj7L-ZOLlqvaD-11" value="ws-pbscompute-A2" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" parent="1" vertex="1">
+        <mxCell id="vvEPGqPCj7L-ZOLlqvaD-11" value="bellerose" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="230" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vvEPGqPCj7L-ZOLlqvaD-13" value="ssh -i &amp;lt;path-to-key.pem&amp;gt; ws-pbsserver-A" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fontColor=#7EA6E0;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="vvEPGqPCj7L-ZOLlqvaD-14" value="&lt;div align=&quot;left&quot;&gt;1. Login node&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Access Server&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. Budgets Server&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="240" y="260" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vvEPGqPCj7L-ZOLlqvaD-15" value="PBS Pro Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" parent="1" vertex="1">
+        <mxCell id="vvEPGqPCj7L-ZOLlqvaD-15" value="PBS Pro Server&lt;br&gt;&lt;div align=&quot;left&quot;&gt;Compute Node&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="440" y="260" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvEPGqPCj7L-ZOLlqvaD-16" value="Compute Nodes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" parent="1" vertex="1">
@@ -51,7 +51,7 @@
             <mxPoint x="390" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBlC82X2053MUooxxI-S-1" value="ws-util" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WBlC82X2053MUooxxI-S-1" value="&lt;span data-teams=&quot;true&quot;&gt;vega.cluster.altair&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="305" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="WBlC82X2053MUooxxI-S-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="vvEPGqPCj7L-ZOLlqvaD-1" target="WBlC82X2053MUooxxI-S-2">
